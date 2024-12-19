@@ -1,0 +1,15 @@
+streamlit
+torch
+transformers
+accelerate
+bitsandbytes
+peft
+scipy
+huggingface-hub
+protobuf
+scikit-learn
+sentencepiece
+optimum
+einops
+tqdm
+datasets
